@@ -1,2 +1,2 @@
-# CityZen-SIH2025-Prototype
+# CityZen
 CityZen - Civic Grievance Redressal Platform
